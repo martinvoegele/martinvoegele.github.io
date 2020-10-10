@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Martin Vögele"
-  avatar           : "profile.jpg"
+  avatar           : "glasses.jpg"
   bio              : "Computational physicist, working with molecular simulation and machine learning. Currently postdoc in the Dror Lab."
   location         : 
   employer         : "Stanford University"
