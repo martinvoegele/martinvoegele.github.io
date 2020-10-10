@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Website of Martin Vögele"
 title_separator          : "-"
 name                     : &name "Martin Vögele"
-description              : &description "personal description"
+description              : &description "computational physicist"
 url                      : https://martinvoegele.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinvoegele/martinvoegele.github.io"
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
   github           : "martinvoegele"
@@ -108,7 +108,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           : "https://blendenfleck.tumblr.com/"
   twitter          : "Blendenfleck"
   vine             :
   weibo            :
