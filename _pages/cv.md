@@ -18,15 +18,24 @@ Education
 Work experience
 ======
 * since 2019: Postdoctoral Researcher, *Stanford University*
-  * Computer simulations of biomolecular complexes
-  * Machine learning for structural biology and drug discovery
+  * Department of Computer Science
   * Supervisor: Prof. Ron Dror
   
 * 2014-2019: Doctoral Researcher, *Max Planck Institute of Biophysics*
-  * Molecular modeling of biomolecules and biomimetic materials
-  * Simulations and data analysis on high-performance supercomputers
-  * Development and implementation of theoretical and statistical methods
+  * Department of Theoretical Biophysics
   * Supervisor: Prof. Gerhard Hummer
+
+* 2014: Scientific Assistant, *University of Stuttgart*
+  * Institute for Computational Physics
+  * Supervisor: Prof. Christian Holm
+
+* 2013-2014: Working Student: *Daimler AG*
+  * Daimler Trucks, Department for exhaust aftertreatment
+
+* 2011-2013: Student Research Assistant: *University of Stuttgart*
+  * Institute for Materials Testing, Materials Science and Strength of Materials (IMWF)
+  
+* 2009-2012: Advisor: *Student Research Centre (SFZ) Bad Saulgau*
 
 Awards
 ======
@@ -37,7 +46,7 @@ Awards
 * *Award for the best oral contribution* at Third Infinity (Conference on Physics of Biology and Complex Systems) in Göttingen.
 Title of the talk: "Correction of Finite-Size Effects on Diffusion in Lipid Membrane Simulations" (October 2017)
 * *Best Student Poster Award* at PRACE days 2017 in Barcelona for the poster &quot;Finite-Size Effects on the Dynamics in Simulations of Lipid Membranes&quot; (May 2017)
-* *Best Talk Award* at the Jubilee Congress \10 Years of jDPG" in Dresden (October 2016)
+* *Best Talk Award* at the Jubilee Congress &quot;10 Years of jDPG&quot; in Dresden (October 2016)
   
 Service and leadership
 ======
