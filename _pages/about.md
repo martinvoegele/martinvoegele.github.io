@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational physicist working as a postdoctoral researcher at the [Department of Computer Science](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). In my work in the [Dror Lab](http://drorlab.stanford.edu/), I use molecular dynamics simulations on supercomputers to discover signaling processes in membrane receptors and machine learning methods to predict properties and behavior of drug-like molecules. 
 
-In Summer 2019, I defended my PhD at [Goethe University](https://www.goethe-university-frankfurt.de) about my work in the [Department of Theoretical Biophysics](https://www.biophys.mpg.de/theoretical-biophysics) at the [Max Planck Institute of Biophysics](https://www.biophys.mpg.de). 
+In Summer 2019, I defended my PhD at [Goethe University](https://www.goethe-university-frankfurt.de) about my work in the [Department of Theoretical Biophysics](https://www.biophys.mpg.de/theoretical-biophysics) at the [Max Planck Institute of Biophysics](https://www.biophys.mpg.de). In my thesis, I investigated lipid membranes theoretically and with molecular simulations. During my time in Frankfurt, I was also active in the student organisation of the German Physical Society and in the PhD student representation of the Max Planck Society.
 
 Besides science, I find a lot of joy in photography. 
 
