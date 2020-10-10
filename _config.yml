@@ -84,11 +84,11 @@ author:
   avatar           : "profile.jpg"
   bio              : "Computational physicist, mostly working with molecular simulation and machine learning. Currently postdoc in the Dror Lab."
   location         : "Mountain View"
-  employer         :
+  employer         : "Stanford University, Department of Computer Science"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=martin+v%C3%B6gele"
   googlescholar    : "https://scholar.google.de/citations?user=qAVlKX0AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Martin_Voegele"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/martin-voegele/"
+  orcid            : "https://orcid.org/0000-0002-1712-358X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,7 @@ author:
   twitter          : "Blendenfleck"
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Martin_Voegele6/cv"
   youtube          :
   wikipedia        :
 
