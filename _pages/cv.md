@@ -41,7 +41,7 @@ Awards
 ======
 * *EMBO long-term fellowship* for my work at Stanford University from July 2019 to June 2021. 
 * Participation in the 69th *Lindau Nobel Laureates Meeting*. 580 young scientists from 88 countries were selected to come to Lindau and to meet 39 Nobel Laureates from 30 June to 5 July 2019. 
-* *Best Poster Award* at at the Biological Diffusion and Brownian Dynamics Brainstorm 4 (BDBDB4) for the poster &quot;"Diffusion of Proteins and Lipids in Membranes Corrected for Finite-Size Effects&quot; (April 2018) 
+* *Best Poster Award* at at the Biological Diffusion and Brownian Dynamics Brainstorm 4 (BDBDB4) for the poster &quot;Diffusion of Proteins and Lipids in Membranes Corrected for Finite-Size Effects&quot; (April 2018) 
 * *Best Poster Award*, Macromolecules Workshop, Hünfeld for the <a href="https://www.mpibpc.mpg.de/16310875/87_Winner2018_voegele.pdf">poster</a> &quot;Role of Lipids in Membrane Docking and Pore Formation of Pneumolysin&quot; (April 2018)
 * *Award for the best oral contribution* at Third Infinity (Conference on Physics of Biology and Complex Systems) in Göttingen.
 Title of the talk: "Correction of Finite-Size Effects on Diffusion in Lipid Membrane Simulations" (October 2017)
