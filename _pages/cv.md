@@ -38,23 +38,10 @@ Skills
   * Python
   * C++
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Best Poster, Macromolecules Workshop, Hünfeld for <a href="https://www.mpibpc.mpg.de/16310875/87_Winner2018_voegele.pdf">poster</a> &quot;Role of Lipids in Membrane Docking and Pore Formation of Pneumolysin&quot; (April 2018)
+{: reversed="reversed"}
   
 Service and leadership
 ======
