@@ -17,7 +17,3 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 1. Correction of Finite-Size Effects on Diffusion in Lipid Membrane Simulations. (contributed talk), Third Infinity, Göttingen (October 2017)
 {: reversed="reversed"}
 
-
-## Awards
-1. Best Poster, Macromolecules Workshop, Hünfeld for <a href="https://www.mpibpc.mpg.de/16310875/87_Winner2018_voegele.pdf">poster</a> &quot;Role of Lipids in Membrane Docking and Pore Formation of Pneumolysin&quot; (April 2018)
-{: reversed="reversed"}
