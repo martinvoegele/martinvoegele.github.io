@@ -23,6 +23,13 @@ Work experience
   * Machine learning for structural biology and drug discovery
   * Supervisor: Prof. Ron Dror
   
+* 2014-2019: Doctoral Researcher
+  * Max Planck Institute of Biophysics
+  * Molecular modeling of biomolecules and biomimetic materials
+  * Simulations and data analysis on high-performance supercomputers
+  * Development and implementation of theoretical and statistical methods
+  * Supervisor: Prof. Gerhard Hummer
+  
 Skills
 ======
 * Simulations
@@ -51,6 +58,6 @@ Teaching
   
 Service and leadership
 ======
-* Co-founded the regional student chapter of the German Physical Society in Fall 2014 and served as its first chairperson until 2018.
+* Co-founded the regional student chapter of the [German Physical Society](https://www.dpg-physik.de/) in Fall 2014 and served as its first chairperson until 2018.
 * Served as Ph.D. Student Representative at the Max Planck Institute of Biophysics from 2015 to 2018.
-* Active in the Max Planck PhDNet Survey Team, conducting a survey on working conditions among all doctoral researchers in the Max Planck Society.
+* Active in the Max Planck [PhDNet](https://www.phdnet.mpg.de/home) Survey Team, conducting a [survey](https://www.phdnet.mpg.de/125573/PhDnet_Survey_Report_2018.pdf) on working conditions among the doctoral researchers in the Max Planck Society.
