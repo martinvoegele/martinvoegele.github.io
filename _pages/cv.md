@@ -40,8 +40,7 @@ Skills
 
 Awards
 ======
-1. Best Poster, Macromolecules Workshop, Hünfeld for <a href="https://www.mpibpc.mpg.de/16310875/87_Winner2018_voegele.pdf">poster</a> &quot;Role of Lipids in Membrane Docking and Pore Formation of Pneumolysin&quot; (April 2018)
-{: reversed="reversed"}
+* Best Poster, Macromolecules Workshop, Hünfeld for <a href="https://www.mpibpc.mpg.de/16310875/87_Winner2018_voegele.pdf">poster</a> &quot;Role of Lipids in Membrane Docking and Pore Formation of Pneumolysin&quot; (April 2018)
   
 Service and leadership
 ======
