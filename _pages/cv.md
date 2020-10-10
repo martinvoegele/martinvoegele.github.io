@@ -27,14 +27,6 @@ Work experience
   * Simulations and data analysis on high-performance supercomputers
   * Development and implementation of theoretical and statistical methods
   * Supervisor: Prof. Gerhard Hummer
-  
-Skills
-======
-* Simulations
-* Data analysis
-* Programming
-  * Python
-  * C++
 
 Awards
 ======
