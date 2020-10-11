@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Physics, University of Konstanz, 2011
 * M.Sc. in Physics, University of Stuttgart, 2014
-* Ph.D in Physics, MPI of Biophysics and Goethe University Frankfurt, 2019
+* Dr. phil. nat. in Physics, MPI of Biophysics and Goethe University Frankfurt, 2019
 
 Work experience
 ======
@@ -29,13 +29,13 @@ Work experience
   * Institute for Computational Physics
   * Supervisor: Prof. Christian Holm
 
-* 2013-2014: Working Student: *Daimler AG*
+* 2013-2014: Working Student, *Daimler AG*
   * Daimler Trucks, Department for exhaust aftertreatment
 
-* 2011-2013: Student Research Assistant: *University of Stuttgart*
+* 2011-2013: Student Research Assistant, *University of Stuttgart*
   * Institute for Materials Testing, Materials Science and Strength of Materials (IMWF)
   
-* 2009-2012: Advisor: *Student Research Centre (SFZ) Bad Saulgau*
+* 2009-2012: Advisor, *Student Research Centre (SFZ) Bad Saulgau*
 
 Awards
 ======
