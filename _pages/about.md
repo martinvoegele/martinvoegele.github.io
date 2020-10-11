@@ -12,6 +12,8 @@ I am a computational physicist working as a postdoctoral researcher at the [Depa
 
 In Summer 2019, I defended my PhD at [Goethe University](https://www.goethe-university-frankfurt.de) about my work in the [Department of Theoretical Biophysics](https://www.biophys.mpg.de/theoretical-biophysics) at the [Max Planck Institute of Biophysics](https://www.biophys.mpg.de). In my thesis, I investigated lipid membranes theoretically and with molecular simulations. During my time in Frankfurt, I was also active in the student organisation of the German Physical Society and in the PhD student representation of the Max Planck Society.
 
+During my Master and Bachelor, I focused on materials physics, simulating polyelectrolytes at the [Institute for Computational Physics](https://www.icp.uni-stuttgart.de/) in Stuttgart, stress-strain behavior of alloys at the [Institute of Materials Science](https://www.imwf.uni-stuttgart.de/en/) in Stuttgart, and nanobridges of shape-memory alloys at the [Statistical and Computational Physics Group](https://www.nielaba.uni-konstanz.de/) in Konstanz.
+
 Besides science, I find a lot of joy in photography. 
 
 
