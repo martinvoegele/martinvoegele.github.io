@@ -39,7 +39,7 @@ Work experience
 
 Awards
 ======
-* Walter Greiner Award for best doctoral thesis 2019/2020 at the physics department of Goethe University Frankfurt. 
+* *Walter Greiner Award* for best doctoral thesis 2019/2020 at the physics department of Goethe University Frankfurt. 
 * *EMBO long-term fellowship* for my work at Stanford University from July 2019 to June 2021. 
 * Participation in the 69th *Lindau Nobel Laureates Meeting*. 580 young scientists from 88 countries were selected to come to Lindau and to meet 39 Nobel Laureates from 30 June to 5 July 2019. 
 * *Best Poster Award* at at the Biological Diffusion and Brownian Dynamics Brainstorm 4 (BDBDB4) for the poster &quot;Diffusion of Proteins and Lipids in Membranes Corrected for Finite-Size Effects&quot; (April 2018) 
