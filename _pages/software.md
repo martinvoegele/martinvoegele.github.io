@@ -11,8 +11,9 @@ Here I highlight some of the bigger projects that I particularly care about.
 
 
 ## PENSA
+(developed at Stanford University)
 
-_Protein Ensemble Analysis_, a toolbox for exploratory analysis and comparison of structural ensembles of proteins.
+**Toolbox for exploratory analysis and comparison of structural ensembles of proteins.**
 
 Molecular simulations enable the study of proteins and other biomolecules and their dynamics on an atomistic scale. The large amount of data produced for ever larger and more complex systems often makes it difficult to find the meaningful patterns for the respective system. While most available analysis tools provide methods to analyze one simulation at a time, many common research pursuits involve analysis across several simulations and finding significant differences between similar conditions or setups.
 
@@ -23,9 +24,9 @@ This method can speed up the discovery of molecular mechanisms that usually take
 
 
 ## ATOM3D 
-(with Raphael Townshend, Patricia Suriana, Alexander Derry)
+(developed at Stanford University with Raphael Townshend, Patricia Suriana, Alexander Derry and others)
 
-A benchmark suite for machine learning on three-dimensional molecular structure. 
+**Benchmark suite for machine learning on three-dimensional molecular structure.**
 
 We assembled eight datasets specifically designed to provide a benchmark for machine learning methods which operate on 3D molecular structure, and represent a variety of important structural, functional, and engineering tasks. All datasets are provided in a standardized format along with corresponding processing code and dataloaders for common machine learning frameworks (PyTorch and TensorFlow). ATOM3D is designed to be a living database, where datasets are updated and tasks are added as the field progresses.
 
@@ -33,9 +34,9 @@ Check it out on <a href="https://www.atom3d.ai/">atom3d.ai</a> or on its <a href
 
 
 ## Binless WHAM
-(with Alfredo Jost-López and Lukas Stelzl)
+(developed at the Max Planck Institute of Biophysics with Alfredo Jost-López, Lukas Stelzl and Gerhard Hummer)
 
-An efficient implementation of the binless WHAM method for statistical reweighting of biased simulations.
+**Efficient implementation of the binless weighted histogram analysis method for statistical reweighting of biased simulations.**
 
 <a href="https://github.com/bio-phys/binless-wham">View it on GitHub.</a>
 
