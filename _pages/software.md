@@ -14,12 +14,10 @@ Here I highlight some of the bigger projects that I particularly care about.
 
 _Protein Ensemble Analysis_, a toolbox for exploratory analysis and comparison of structural ensembles of proteins.
 
-<img width="300" align="right;" src="../images/PENSA-Picture.png"> 
-
-- Compare structural ensembles of proteins via the relative entropy of their features and visualize deviations on a reference structure.
+- Compare structural ensembles of proteins via the relative entropy of their features and visualize deviations on a reference structure. 
+- Estimate the statistical significance of differences between two conditions using a Kolmogorov-Smirnov test.
 - Project ensembles on their combined principal components (PCs) and sort the structures along a PC.
-- Cluster structures via k-means and via regular-space clustering and write out the resulting clusters as trajectories.
-
+- Cluster structures via k-means or via regular-space clustering and write out the resulting clusters as trajectories.
 
 <a href="https://github.com/drorlab/pensa">View it on GitHub.</a>
 
