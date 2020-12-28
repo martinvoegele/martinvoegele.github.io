@@ -9,9 +9,12 @@ author_profile: true
 
 <img width="310" src="../images/photo-flowers-512.jpg" /> <img width="310" src="../images/photo-frankfurt-512.jpg" /> <img width="310" src="../images/photo-cat-512.jpg" />
 
-In my spare time, I am an avid photographer. My camera is a Nikon N5100 with an 18-55mm and a 55-300mm lens.
+In my spare time, I am an avid photographer. You can find many of my pictures in <a href="https://www.flickr.com/photos/141145767@N06/">my Flickr profile</a> and on <a href="https://blendenfleck.tumblr.com/">my Tumblr blog</a>. I'm also a member of the German <a href="https://www.fotocommunity.de/fotograf/blendenfleck/1786881">Photocommunity</a>.
 
-You can find my pictures on <a href="https://www.flickr.com/photos/141145767@N06/">Flickr</a> and on <a href="https://blendenfleck.tumblr.com/">Tumblr</a>.
+Current equipment:
+- Nikon N5100
+- AF-S DX VR Zoom-Nikkor 18-55mm f/3.5-5.6G
+- AF-S DX VR Nikkor 55-300mm 4.5-5.6G ED
 
 My greatest success was the second prize in a Photocommunity contest with my <a href="https://www.fotocommunity.de/photo/lesetraum-blendenfleck/27524305">picture of the public library in Stuttgart</a>.
 
