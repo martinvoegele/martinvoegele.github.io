@@ -13,4 +13,6 @@ In my spare time, I am an avid photographer. My camera is a Nikon N5100 with an 
 
 You can find my pictures on <a href="https://www.flickr.com/photos/141145767@N06/">Flickr</a> and on <a href="https://blendenfleck.tumblr.com/">Tumblr</a>.
 
+My greatest success was the second prize in a Photocommunity contest with my <a href="https://www.fotocommunity.de/photo/lesetraum-blendenfleck/27524305">picture of the public library in Stuttgart</a>.
+
 <img width="310" src="../images/photo-halfmoonbay-512.jpg" /> <img width="310" src="../images/photo-cattedrale-512.jpg" /> <img width="310" src="../images/photo-goldengatebridge-512.jpg" />
