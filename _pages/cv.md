@@ -39,7 +39,7 @@ Work experience
 
 Awards
 ======
-* *ACBioSim Poster Prize*, third place out of 98 posters at the EMBO workshop “Advances and Challenges in Biomolecular Simulations” in Brno, Czechia (virtual) for the poster “Systematic comparison of biomolecular structural ensembles via mutual information.”
+* *ACBioSim Poster Prize*, third place out of 98 posters at the EMBO workshop “Advances and Challenges in Biomolecular Simulations” in Brno, Czechia (virtual) for the poster “Systematic comparison of biomolecular structural ensembles via mutual information.” (October 2021)
 * *Walter Greiner Award* for best doctoral thesis 2019/2020 at the physics department of Goethe University Frankfurt. 
 * *EMBO long-term fellowship* for my work at Stanford University from July 2019 to June 2021. 
 * Participation in the 69th *Lindau Nobel Laureates Meeting*. 580 young scientists from 88 countries were selected to come to Lindau and to meet 39 Nobel Laureates from 30 June to 5 July 2019. 
