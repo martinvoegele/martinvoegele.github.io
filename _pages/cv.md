@@ -40,7 +40,7 @@ Work experience
 Awards
 ======
 * *Best Paper Award* at the NeurIPS 2021 Datasets and Benchmarks Track for “ATOM3D: Tasks on Molecules in Three Dimensions” (November 2021), also see the <a href="https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/">blog post</a>.
-* *ACBioSim Poster Prize*, third place out of 98 posters at the EMBO workshop “Advances and Challenges in Biomolecular Simulations” in Brno, Czechia (virtual) for the poster “Systematic comparison of biomolecular structural ensembles via mutual information” (October 2021).
+* *ACBioSim Poster Prize*, third place out of 98 posters at the EMBO workshop “Advances and Challenges in Biomolecular Simulations” in Brno, Czechia (virtual) for the <a href="https://www.researchgate.net/publication/355700094_Systematic_comparison_of_biomolecular_structural_ensembles_via_mutual_information">poster</a> “Systematic comparison of biomolecular structural ensembles via mutual information” (October 2021).
 * *Walter Greiner Award* for best doctoral thesis 2019/2020 at the physics department of Goethe University Frankfurt. 
 * *EMBO long-term fellowship* for my work at Stanford University from July 2019 to June 2021. 
 * Participation in the 69th *Lindau Nobel Laureates Meeting*. 580 young scientists from 88 countries were selected to come to Lindau and to meet 39 Nobel Laureates from 30 June to 5 July 2019. 
