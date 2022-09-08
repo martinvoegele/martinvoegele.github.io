@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* since 2019: Postdoctoral Researcher, *Stanford University*
+* since 2022: Senior Scientist, *Schrödinger, Inc.*
+  * Department of Life Science Software
+  
+* 2019-2022: Postdoctoral Researcher, *Stanford University*
   * Department of Computer Science
   * Supervisor: Prof. Ron Dror
   
