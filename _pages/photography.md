@@ -19,5 +19,3 @@ Current equipment:
 My greatest success was the second prize in a Photocommunity contest with my <a href="https://www.fotocommunity.de/photo/lesetraum-blendenfleck/27524305">picture of the public library in Stuttgart</a>.
 
 <img width="310" src="../images/photo-halfmoonbay-512.jpg" /> <img width="310" src="../images/photo-cattedrale-512.jpg" /> <img width="310" src="../images/photo-goldengatebridge-512.jpg" />
-
-<a rel="me" href="https://fediscience.org/@martinvoegele">Mastodon</a>
