@@ -18,4 +18,6 @@ During my Master and Bachelor, I focused on materials physics, simulating polyel
 
 Besides science, I find a lot of joy in photography. 
 
+Now you can find me on <a rel="me" href="https://fediscience.org/@martinvoegele">Mastodon</a>, too.
+
 
