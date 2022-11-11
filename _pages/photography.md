@@ -9,7 +9,7 @@ author_profile: true
 
 <img width="310" src="../images/photo-flowers-512.jpg" /> <img width="310" src="../images/photo-frankfurt-512.jpg" /> <img width="310" src="../images/photo-cat-512.jpg" />
 
-In my spare time, I am an avid photographer. You can find many of my pictures in <a href="https://www.flickr.com/photos/141145767@N06/">my Flickr profile</a> and on <a href="https://blendenfleck.tumblr.com/">my Tumblr blog</a>. I'm also a member of the German <a href="https://www.fotocommunity.de/fotograf/blendenfleck/1786881">Photocommunity</a>.
+In my spare time, I am an avid photographer. These days, I am most active on <a href="https://www.instagram.com/blendenfleck_ig/">Instagram</a>. You can find many of my older pictures in <a href="https://www.flickr.com/photos/141145767@N06/">my Flickr profile</a> and on <a href="https://blendenfleck.tumblr.com/">my Tumblr blog</a>. I'm also a member of the German <a href="https://www.fotocommunity.de/fotograf/blendenfleck/1786881">Photocommunity</a>.
 
 Current equipment:
 - Nikon N5100
