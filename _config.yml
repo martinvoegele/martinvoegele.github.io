@@ -115,8 +115,9 @@ author:
   xing             : "Martin_Voegele6"
   youtube          :
   wikipedia        :
-
-
+  mastodon         : "@martinvoegele@fediscience.org"
+  
+  
 # Reading Files
 include:
   - .htaccess
