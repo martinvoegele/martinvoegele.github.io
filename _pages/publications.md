@@ -11,6 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 This is a comment
 --->
 ## Preprints
+2. &quot;Is the functional response of a receptor determined by the thermodynamics of ligand binding?&quot;<br />**M. Vögele**, B. W. Zhang, J. Kaindl, L. Wang <br /><a href="https://chemrxiv.org/engage/chemrxiv/article-details/64b1cccaae3d1a7b0db45aa8"><i>ChemRxiv:2023-p1507</i> <b>2023</b></a>
 1. &quot;Systematic Analysis of Biomolecular Conformational Ensembles with PENSA&quot;<br />**M. Vögele**, N. J. Thomson, S. T. Truong, J. McAvity, U. Zachariae, R. O. Dror <br /><a href="https://arxiv.org/abs/2212.02714"><i>arXiv:2212.02714 [q-bio.BM]</i> <b>2022</b></a>
 {: reversed="reversed"}
 
