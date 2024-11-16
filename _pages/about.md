@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-As a computational physicist at [Schrödinger, Inc.](https://www.schrodinger.com/), I bridge the worlds of physics and drug discovery, developing cutting-edge software solutions for life science applications.
+As a scientist at [Schrödinger, Inc.](https://www.schrodinger.com/), I bridge the worlds of physics and drug discovery, developing cutting-edge computational solutions for life science applications.
 My research journey spans from theoretical biophysics to machine learning in drug development.
 
 At Stanford University, I conducted postdoctoral research in the [Dror Lab](http://drorlab.stanford.edu/), where I leveraged supercomputer simulations to uncover the hidden mechanisms of membrane receptor signaling. I also developed and benchmarked machine learning approaches to predict the behavior of drug candidates, contributing to more efficient pharmaceutical development processes.
