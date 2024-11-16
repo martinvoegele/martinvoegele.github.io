@@ -21,7 +21,7 @@ repository               : "martinvoegele/martinvoegele.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "glasses.jpg"
+  avatar           : "profile.png"
   name             : "Dr. Martin Vögele"
   pronouns         : # example: "she/her"  
   bio              : "Computational Biophysicist"
