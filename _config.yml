@@ -51,7 +51,7 @@ author:
   # Social media
   bluesky          : "martinvoegele.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : "141145767@N06"
+  flickr           : # "141145767@N06"
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
@@ -59,7 +59,7 @@ author:
   instagram        : "voegele.martin"
   lastfm           : # Username
   linkedin         : "martin-voegele"
-  mastodon         : "https://fediscience.org/@martinvoegele"
+  mastodon         : # "https://fediscience.org/@martinvoegele"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
