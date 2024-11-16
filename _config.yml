@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website of Martin Voegele"
+title                    : "Personal Website of Martin Vögele"
 title_separator          : "-"
-name                     : &name "Dr. Martin Voegele"
+name                     : &name "Dr. Martin Vögele"
 description              : &description "Computational Biophysicist"
 url                      : https://martinvoegele.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "martinvoegele/martinvoegele.github.io"
 author:
   # Biographic information
   avatar           : "glasses.jpg"
-  name             : "Dr. Martin Voegele"
+  name             : "Dr. Martin Vögele"
   pronouns         : # example: "she/her"  
   bio              : "Computational Biophysicist"
-  location         : "New York, NY"
-  employer         : "Schrodinger, Inc."
+  location         : "New York"
+  employer         : "Schrödinger Inc."
   uri              : # URL
   email            : "martinvoegele1989@gmail.com" 
 
@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1712-358X"
   semantic         : # URL
-  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=martin+v%C3%B6gele"
-  researchgate     : #"https://www.researchgate.net/profile/Martin_Voegele"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=martin+v%C3%B6gele"
+  researchgate     : "https://www.researchgate.net/profile/Martin_Voegele"
   scopus           : # URL
 
   # Repositories and software development
@@ -56,21 +56,21 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : #"voegele.martin"
+  instagram        : "voegele.martin"
   lastfm           : # Username
-  linkedin         : #"martin-voegele"
-  mastodon         : #"https://fediscience.org/@martinvoegele"
+  linkedin         : "martin-voegele"
+  mastodon         : "https://fediscience.org/@martinvoegele"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : #"blendenfleck"
-  twitter          : #"Blendenfleck"
+  twitter          : "Blendenfleck"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : #"Martin_Voegele6"
+  xing             : "Martin_Voegele6"
   youtube          : # Username
   zhihu            : # Username
 
