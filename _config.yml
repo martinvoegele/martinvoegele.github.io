@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1712-358X"
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=martin+v%C3%B6gele"
-  researchgate     : "https://www.researchgate.net/profile/Martin_Voegele"
+  researchgate     : #"https://www.researchgate.net/profile/Martin_Voegele"
   scopus           : # URL
 
   # Repositories and software development
@@ -51,26 +51,26 @@ author:
   # Social media
   bluesky          : "martinvoegele.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : "141145767@N06"
+  flickr           : #"141145767@N06"
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "voegele.martin"
+  instagram        : #"voegele.martin"
   lastfm           : # Username
-  linkedin         : "martin-voegele"
-  mastodon         : "https://fediscience.org/@martinvoegele"
+  linkedin         : #"martin-voegele"
+  mastodon         : #"https://fediscience.org/@martinvoegele"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : "blendenfleck"
-  twitter          : "Blendenfleck"
+  tumblr           : #"blendenfleck"
+  twitter          : #"Blendenfleck"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : "Martin_Voegele6"
+  xing             : #"Martin_Voegele6"
   youtube          : # Username
   zhihu            : # Username
 
