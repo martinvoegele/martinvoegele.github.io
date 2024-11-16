@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational physicist working at [Schrödinger, Inc.](https://www.schrodinger.com/) in the Life Science Software department.
 
-Prior to that, I was a postdoctoral researcher at the [Department of Computer Science](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). In my work in the [Dror Lab](http://drorlab.stanford.edu/), I used molecular dynamics simulations on supercomputers to discover signaling processes in membrane receptors and machine learning methods to predict properties and behavior of drug-like molecules. 
+As a computational physicist at [Schrödinger, Inc.](https://www.schrodinger.com/), I bridge the worlds of physics and drug discovery, developing cutting-edge software solutions for life science applications.
+My research journey spans from theoretical biophysics to machine learning in drug development.
 
-In Summer 2019, I defended my PhD at [Goethe University](https://www.goethe-university-frankfurt.de) about my work in the [Department of Theoretical Biophysics](https://www.biophys.mpg.de/theoretical-biophysics) at the [Max Planck Institute of Biophysics](https://www.biophys.mpg.de). In my thesis, I investigated lipid membranes theoretically and with molecular simulations. During my time in Frankfurt, I was also active in the student organisation of the German Physical Society and in the PhD student representation of the Max Planck Society.
+At Stanford University, I conducted postdoctoral research in the [Dror Lab](http://drorlab.stanford.edu/), where I leveraged supercomputer simulations to uncover the hidden mechanisms of membrane receptor signaling. I also developed and benchmarked machine learning approaches to predict the behavior of drug candidates, contributing to more efficient pharmaceutical development processes.
 
-During my Master and Bachelor, I focused on materials physics, simulating polyelectrolytes at the [Institute for Computational Physics](https://www.icp.uni-stuttgart.de/) in Stuttgart, stress-strain behavior of alloys at the [Institute of Materials Science](https://www.imwf.uni-stuttgart.de/en/) in Stuttgart, and nanobridges of shape-memory alloys at the [Statistical and Computational Physics Group](https://www.nielaba.uni-konstanz.de/) in Konstanz.
+In 2019, I earned my PhD from Goethe University, based on research conducted at the [Max Planck Institute of Biophysics](https://www.biophys.mpg.de/theoretical-biophysics). There, I developed theoretical frameworks and molecular simulations to understand the fundamental physics of lipid membranes. Beyond the lab, I took on leadership roles in the German Physical Society's student organization and as the Institute's PhD student representative.
 
-Besides science, I find a lot of joy in photography. 
+When I am not exploring the molecular world through simulations, I explore the world around me through photography, capturing the beauty of cities, landscapes, and everyday life.
 
 News
 ======
