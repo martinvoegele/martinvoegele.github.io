@@ -11,6 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 This is a comment
 --->
 ## Preprints
+3. &quot;Martini 3 coarse-grained models for carbon nanomaterials&quot;<br />R. Shrestha, R. Alessandri, **M. Vögele**, P. Souza, S.-J. Marrink, L. Monticelli<br /><a href="https://doi.org/10.26434/chemrxiv-2024-6s1wj"><i>ChemRxiv</i> <b>2024</b></a>
 2. &quot;Challenges in the Accurate Modelling of Lipid Dynamics in Monolayers and Bilayers&quot;<br />C. Tempra, V. Cruces Chamorro, T. Mandal, S. Chiantia, **M. Vögele**, B. Fábián, M. Javanainen<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2024.09.12.612735</i> <b>2024</b></a>
 1. &quot;Systematic Analysis of Biomolecular Conformational Ensembles with PENSA&quot;<br />**M. Vögele**, N. J. Thomson, S. T. Truong, J. McAvity, U. Zachariae, R. O. Dror <br /><a href="https://arxiv.org/abs/2212.02714"><i>arXiv:2212.02714 [q-bio.BM]</i> <b>2022</b></a>
 {: reversed="reversed"}
