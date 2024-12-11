@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-1712-358X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=martin+vögele"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=martin+vögele"
+  researchgate     : "https://www.researchgate.net/profile/Martin-Voegele"
   scopus           : # URL
 
   # Repositories and software development
