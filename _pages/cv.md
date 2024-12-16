@@ -21,22 +21,16 @@ Work Experience
   * Department of Life Science Software
   
 * 2019-2022: Postdoctoral Researcher, *Stanford University*
-  * Department of Computer Science
-  * Supervisor: Prof. Ron Dror
+  * Department of Computer Science, Prof. Ron Dror
   
 * 2014-2019: Doctoral Researcher, *Max Planck Institute of Biophysics*
-  * Department of Theoretical Biophysics
-  * Supervisor: Prof. Gerhard Hummer
+  * Department of Theoretical Biophysics, Prof. Gerhard Hummer
 
-* 2014: Scientific Assistant, *University of Stuttgart*
-  * Institute for Computational Physics
-  * Supervisor: Prof. Christian Holm
+* 2014: Scientific Assistant, *ICP, University of Stuttgart*
 
 * 2013-2014: Working Student, *Daimler AG*
-  * Daimler Trucks, Department for exhaust aftertreatment
 
-* 2011-2013: Student Research Assistant, *University of Stuttgart*
-  * Institute for Materials Testing, Materials Science and Strength of Materials (IMWF)
+* 2011-2013: Student Research Assistant, *IMWF, University of Stuttgart*
   
 * 2009-2012: Advisor, *Student Research Centre (SFZ) Bad Saulgau*
 
