@@ -19,5 +19,5 @@ When I am not exploring the molecular world through simulations, I explore the w
 
 News
 ======
-- *2023-11-09*: First publication about work at Schrödinger: [“Is the Functional Response of a Receptor Determined by the Thermodynamics of Ligand Binding?”](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00899) Our answer: Yes, it is! And we can use it to predict ligand efficacy. 
-- 2023: Now you can find me on <a rel="me" href="https://bsky.app/profile/martinvoegele.bsky.social">Bluesky</a> and <a rel="me" href="https://fediscience.org/@martinvoegele">Mastodon</a>, too.
+- **2023-11-09**: First publication about work at Schrödinger: “[Is the Functional Response of a Receptor Determined by the Thermodynamics of Ligand Binding?](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00899)” Our answer: Yes, it is! And we can use it to predict ligand efficacy. 
+- **2023**: Now you can find me on <a rel="me" href="https://bsky.app/profile/martinvoegele.bsky.social">Bluesky</a> and <a rel="me" href="https://fediscience.org/@martinvoegele">Mastodon</a>, too.
