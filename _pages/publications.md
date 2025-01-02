@@ -11,13 +11,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 This is a comment
 --->
 ## Preprints
-3. &quot;Martini 3 coarse-grained models for carbon nanomaterials&quot;<br />R. Shrestha, R. Alessandri, **M. Vögele**, P. Souza, S.-J. Marrink, L. Monticelli<br /><a href="https://doi.org/10.26434/chemrxiv-2024-6s1wj"><i>ChemRxiv</i> <b>2024</b></a>
-2. &quot;Challenges in the Accurate Modelling of Lipid Dynamics in Monolayers and Bilayers&quot;<br />C. Tempra, V. Cruces Chamorro, T. Mandal, S. Chiantia, **M. Vögele**, B. Fábián, M. Javanainen<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2024.09.12.612735</i> <b>2024</b></a>
-1. &quot;Systematic Analysis of Biomolecular Conformational Ensembles with PENSA&quot;<br />**M. Vögele**, N. J. Thomson, S. T. Truong, J. McAvity, U. Zachariae, R. O. Dror <br /><a href="https://arxiv.org/abs/2212.02714"><i>arXiv:2212.02714 [q-bio.BM]</i> <b>2022</b></a>
+2. &quot;Martini 3 coarse-grained models for carbon nanomaterials&quot;<br />R. Shrestha, R. Alessandri, **M. Vögele**, P. Souza, S.-J. Marrink, L. Monticelli<br /><a href="https://doi.org/10.26434/chemrxiv-2024-6s1wj"><i>ChemRxiv</i> <b>2024</b></a>
+1. &quot;Challenges in the Accurate Modelling of Lipid Dynamics in Monolayers and Bilayers&quot;<br />C. Tempra, V. Cruces Chamorro, T. Mandal, S. Chiantia, **M. Vögele**, B. Fábián, M. Javanainen<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2024.09.12.612735</i> <b>2024</b></a>
 {: reversed="reversed"}
 
 
 ## Research Articles 
+16. &quot;Systematic Analysis of Biomolecular Conformational Ensembles with PENSA&quot;<br /> **M. Vögele**, N. J. Thomson, S. T. Truong, J. McAvity, U. Zachariae, R. O. Dror<br /><a href="https://doi.org/10.1063/5.0235544"><i>J. Chem. Phys.</i> <b>2025</b>, <i>162</i>, 014101</a>; <a href="https://arxiv.org/abs/2212.02714"><i>arXiv:2212.02714 [q-bio.BM]</i></a>
 15. &quot;Is the Functional Response of a Receptor Determined by the Thermodynamics of Ligand Binding?&quot;<br />**M. Vögele**, B. W. Zhang, J. Kaindl, L. Wang <br /><a href="https://doi.org/10.1021/acs.jctc.3c00899"><i>J. Chem. Theory Comput.</i> <b>2023</b>, 19, 22, 8414–8422</a>; <a href="https://chemrxiv.org/engage/chemrxiv/article-details/65136d470065940912f124c8"><i>ChemRxiv:2023-p1507</i></a>
 14. &quot;Nanoporous Membranes of Densely Packed Carbon Nanotubes Formed by Lipid-Mediated Self-Assembly&quot;<br />**M. Vögele**, J. Köfinger, G. Hummer <br /><a href="https://doi.org/10.1021/acsabm.2c00585"><i>ACS Appl. Bio Mater.</i> <b>2022</b></a>
 13. &quot;Euclidean Transformers for Macromolecular Structures: Lessons Learned&quot;<br />D. D. Liu, L. Melo, A. Costa, **M. Vögele**, R. J. L. Townshend, R. O. Dror <br /><a href="https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_63.pdf"><i>ICML Computational Biology</i> <b>2022</b></a>
