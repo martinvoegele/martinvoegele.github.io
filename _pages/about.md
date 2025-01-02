@@ -19,7 +19,7 @@ When I am not exploring the molecular world through simulations, I explore the w
 
 News
 ======
-- **2024-12-15**: We updated the [preprint about PENSA](https://arxiv.org/abs/2212.02714), our analysis software to compare biomolecular conformational ensembles.
+- **2025-01-07**: The Journal of Chemical Physics published our [article about PENSA](https://doi.org/10.1063/5.0235544), the analysis software to compare biomolecular conformational ensembles.
 - **2024-12-06**: Martini 3 parameters for carbon nanomaterials are out. Read the [preprint on ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/673ba7fcf9980725cfa3c26d)!
 - **2023-11-09**: First publication about work at Schrödinger: “[Is the Functional Response of a Receptor Determined by the Thermodynamics of Ligand Binding?](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00899)” Our answer: Yes, it is! And we can use it to predict ligand efficacy. 
 - **2023**: Now you can find me on <a rel="me" href="https://bsky.app/profile/martinvoegele.bsky.social">Bluesky</a> and <a rel="me" href="https://fediscience.org/@martinvoegele">Mastodon</a>, too.
