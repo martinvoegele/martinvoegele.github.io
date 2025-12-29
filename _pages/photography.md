@@ -14,6 +14,7 @@ In my spare time, I am an avid photographer. These days, I am most active on <a 
 Current equipment:
 - Nikon N5100
 - AF-S NIKKOR 50mm f/1.8G
+- AF-S DX NIKKOR 16-80mm f/2.8-4 EF ED VR
 - AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR
 - AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR
 - AF-S DX NIKKOR 55-300mm f/4.5-5.6G ED VR
