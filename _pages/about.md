@@ -19,6 +19,7 @@ When I am not exploring the molecular world through simulations, I explore the w
 
 News
 ======
+- **2026-04-30**: We present results of successful [functional reponse modeling on an integrin](https://www.biorxiv.org/content/10.1101/2024.09.12.612735).
 - **2025-01-17**: I contributed to a [perspective about membrane permeability](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01815) that dicusses the difficulties in reconciling computer models, lab assays, and animal studies.
 - **2025-01-07**: Now officially published: our [article about PENSA](https://doi.org/10.1063/5.0235544), the analysis software to compare biomolecular conformational ensembles, e.g., from different molecular simulations, generative AI models, or structural biology experiments.
 - **2024-12-06**: Martini 3 parameters for carbon nanomaterials are out. Read the [preprint on ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/673ba7fcf9980725cfa3c26d)!
