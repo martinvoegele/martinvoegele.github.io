@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 This is a comment
 --->
 ## Preprints
-2. &quot;Conformational Preference Classification of Integrin-Binding Ligands Using Free Energy Perturbation&quot;<br />**M. Vögele**, R. Shahoei, L. Petridis, J. Li, F.-Y. Lin, L. Wang, T. A. Springer, J. Vendome<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2026.04.27.721214</i> <b>2026</b></a>
+2. &quot;Conformational Preference Classification of Integrin-Binding Ligands Using Free Energy Perturbation&quot;<br />**M. Vögele**, R. Shahoei, L. Petridis, J. Li, F.-Y. Lin, L. Wang, T. A. Springer, J. Vendome<br /><a href="https://www.biorxiv.org/content/10.64898/2026.04.27.721214"><i>bioRxiv 2026.04.27.721214</i> <b>2026</b></a>
 1. &quot;Challenges in the Accurate Modelling of Lipid Dynamics in Monolayers and Bilayers&quot;<br />C. Tempra, V. Cruces Chamorro, T. Mandal, S. Chiantia, **M. Vögele**, B. Fábián, M. Javanainen<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2024.09.12.612735</i> <b>2024</b></a>
 {: reversed="reversed"}
 
