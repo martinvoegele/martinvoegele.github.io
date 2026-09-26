@@ -11,11 +11,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 This is a comment
 --->
 ## Preprints
-2. &quot;Conformational Preference Classification of Integrin-Binding Ligands Using Free Energy Perturbation&quot;<br />**M. Vögele**, R. Shahoei, L. Petridis, J. Li, F.-Y. Lin, L. Wang, T. A. Springer, J. Vendome<br /><a href="https://www.biorxiv.org/content/10.64898/2026.04.27.721214"><i>bioRxiv 2026.04.27.721214</i> <b>2026</b></a>
+2. &quot;State-specific binding thermodynamics predicts ligand efficacy across ion-channel families. &quot;<br />**M. Vögele**, A. E. Leffler, K. C. Felt, L. Denluck, E. B. Miller, S. Chakrapani, L. Wang<br /><a href="https://doi.org/10.64898/2026.09.22.753602"><i>bioRxiv 2026.09.22.753602</i> <b>2026</b></a>
 1. &quot;Challenges in the Accurate Modelling of Lipid Dynamics in Monolayers and Bilayers&quot;<br />C. Tempra, V. Cruces Chamorro, T. Mandal, S. Chiantia, **M. Vögele**, B. Fábián, M. Javanainen<br /><a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612735"><i>bioRxiv 2024.09.12.612735</i> <b>2024</b></a>
 {: reversed="reversed"}
 
 ## Research Articles 
+18. &quot;Conformational Preference Classification of Integrin-Binding Ligands Using Free Energy Perturbation&quot;<br />**M. Vögele**, R. Shahoei, L. Petridis, J. Li, F.-Y. Lin, L. Wang, T. A. Springer, J. Vendome<br /><a href="https://doi.org/10.1021/jacsau.6c00653"><i>JACS Au</i> <b>2026</b></a>; <a href="https://www.biorxiv.org/content/10.64898/2026.04.27.721214"><i>bioRxiv 2026.04.27.721214</i></a>
 17. &quot;Martini 3 coarse-grained models for carbon nanomaterials&quot;<br />R. Shrestha, R. Alessandri, **M. Vögele**, P. Souza, S.-J. Marrink, L. Monticelli<br /><a href="https://doi.org/10.1021/acs.jctc.5c00923"><i>J. Chem. Theory Comput.</i> <b>2025</b></a>; <a href="https://doi.org/10.26434/chemrxiv-2024-6s1wj"><i>ChemRxiv:2024-6s1wj-v3</i></a>
 16. &quot;Systematic Analysis of Biomolecular Conformational Ensembles with PENSA&quot;<br /> **M. Vögele\***, N. J. Thomson\*, S. T. Truong, J. McAvity, U. Zachariae, R. O. Dror<br /><a href="https://doi.org/10.1063/5.0235544"><i>J. Chem. Phys.</i> <b>2025</b>, <i>162</i>, 014101</a>; <a href="https://arxiv.org/abs/2212.02714"><i>arXiv:2212.02714 [q-bio.BM]</i></a>
 15. &quot;Is the Functional Response of a Receptor Determined by the Thermodynamics of Ligand Binding?&quot;<br />**M. Vögele**, B. W. Zhang, J. Kaindl, L. Wang <br /><a href="https://doi.org/10.1021/acs.jctc.3c00899"><i>J. Chem. Theory Comput.</i> <b>2023</b>, 19, 22, 8414–8422</a>; <a href="https://chemrxiv.org/engage/chemrxiv/article-details/65136d470065940912f124c8"><i>ChemRxiv:2023-p1507</i></a>
@@ -42,7 +43,7 @@ This is a comment
 {: reversed="reversed"}
 
 
-## Discussions and Opinion
+## Reviews, Discussions and Opinion
 5. &quot;Permeability Benchmarking: Guidelines for Comparing in Silico, in Vitro, and in Vivo Measurements&quot;<br />C. Jorgensen, R. M. Linville, I. Galea, E. Lambden, **M. Vögele**, C. Chen, E. P. Troendle, F. Ruggiu, M. B. Ulmschneider, B. Schiøtt, C. D. Lorenz <br /><a href="https://doi.org/10.1021/acs.jcim.4c01815"><i>J. Chem. Inf. Model.</i> <b>2025</b>
 4. &quot;Reply to Desikan et al.: Micelle formation among various mechanisms of toxin pore formation&quot;<br />**M. Vögele**, R. M. Bhaskara, E. Mulvihill, K. van Pee, Ö. Yildiz, W. Kühlbrandt, D. J. Müller, G. Hummer <br /><a href="https://www.pnas.org/content/117/10/5109"><i>Proc. Natl. Acad. Sci. U.S.A</i> <b>2020</b>, <i>117(10)</i>, 5109–5110</a>
 3. &quot;Perceptions of publication pressure in the Max Planck Society&quot;<br />C. M. Wu, B. Regler, F. K. Bäuerle, **M. Vögele**, L. Einhorn, S. Elizarova, S. Förste, J. Shenolikar, J. Lasser <br /><a href="https://www.nature.com/articles/s41562-019-0728-x"><i>Nat. Hum. Behav.</i> <b>2019</b>, <i>3</i>, 1029–1030</a>
